@@ -186,7 +186,7 @@
     #define MIN_COOLING_SLOPE_TIME_CHAMBER_VENT 20
     #define MIN_COOLING_SLOPE_DEG_CHAMBER_VENT 1.5
   #endif
-//#endif
+#endif
 
 //
 // Laser Cooler options
